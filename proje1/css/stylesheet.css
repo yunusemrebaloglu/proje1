@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+
+body 	{
+    background-color: #ccc;
+}
+.container {
+    background-color: white;
+    width: 1200px;
+}
+
+ul.yanbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 180px;
+    background-color: #f1f1f1;
+}
+
+li.yanbar a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li.yanbar a:hover {
+    background-color: #555;
+    color: white;
+}
+
+.paylasilan{border-style: ridge;}
+
+.yorum{border-style: inset;}
